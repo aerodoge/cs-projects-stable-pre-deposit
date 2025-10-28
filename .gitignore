@@ -1,0 +1,11 @@
+.vscode
+.idea
+
+build/
+
+.env
+*.yaml
+*.log
+
+
+
