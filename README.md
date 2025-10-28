@@ -2,7 +2,11 @@
 
 
 ## 步骤
-- fork区块
+- Fork区块
 - 部署ACL
-- 调用USDT合约，给safe转点USDT
+- 模拟USDT合约的owner，给safe转点USDT
+- 启动事件监听程序
+- 发送`setDepositLimits`交易
+
+
 
